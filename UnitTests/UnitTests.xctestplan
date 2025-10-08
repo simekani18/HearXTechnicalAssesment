@@ -1,0 +1,26 @@
+{
+  "configurations" : [
+    {
+      "id" : "2D4E3534-FE8F-40C3-A570-27F947E0FB10",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:HearX.xcodeproj",
+        "identifier" : "49C678F82E960FCC0013F64F",
+        "name" : "UnitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
